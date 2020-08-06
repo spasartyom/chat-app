@@ -1,0 +1,4 @@
+.room:hover {
+  cursor: pointer;
+  background: rgb(123 123 234);
+}
