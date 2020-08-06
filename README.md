@@ -3,7 +3,7 @@
 * Node.js (Express.js)
 * React.js
 * Socket.io
-* MongoDB
+* MongoDB (предаврительно необходимо установить)
 
 ### Запуск приложения
 
