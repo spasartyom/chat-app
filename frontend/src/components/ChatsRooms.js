@@ -27,7 +27,7 @@ export default class ChatsRooms extends React.Component {
   render() {
     return (
       <div className="container">
-        <div className="col-6 mx-auto" style={{ background: '#b1b1f5', outline: '1px solid aliceblue', height: '85vh' }}>
+        <div className="col-8 col-md-6 mx-auto" style={{ background: '#b1b1f5', outline: '1px solid aliceblue', height: '85vh' }}>
           <CreateRoomForm addRoom={this.addRoom} />
           <JoinRoomForm addRoom={this.addRoom} />
           {this.state.rooms ? this.state.rooms.map((room) => {

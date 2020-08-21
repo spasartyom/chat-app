@@ -31,7 +31,7 @@ export default class TextForm extends React.Component {
     return (
       <form method="POST" action="/" onSubmit={this.handleSubmit}>
         <div className="row mb-3">
-          <div className="col-10">
+          <div className="col-9">
             <input type="text" value={this.state.value} className="form-control" onChange={this.handleChange} placeholder="Enter message" />
           </div>
           <div className="col-2">

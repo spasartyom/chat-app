@@ -17,6 +17,6 @@
 
 ### Скринкаст работы приложения
 
-Ссылка: https://drive.google.com/file/d/18Q6jkq1WL5zffsOcOci1kXRAXzJKyktv/view?usp=sharing
+Ссылка: https://drive.google.com/file/d/108Q-Im_ER_qT1aRf_ukHuGOMWzoPdf9b/view?usp=sharing
 
 В работе приложения предполагается, что пользователь добавит ссылку на новую комнату через форму на главной странице, только затем будет к ней присоединятся.
